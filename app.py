@@ -1,5 +1,6 @@
 print("hello world")
 
-name = "joao"
+joao = "joao"
+maria = "maria"
 
-print(name)
+print(maria)
