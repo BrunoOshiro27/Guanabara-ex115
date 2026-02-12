@@ -3,4 +3,6 @@ print("hello world")
 joao = "joao"
 maria = "maria"
 
-print(maria)
+lista = [joao, maria]
+
+print(lista)
